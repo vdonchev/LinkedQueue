@@ -7,7 +7,7 @@
     [TestClass]
     public class LinkedQueueTests
     {
-        [TestMethod]
+        [TestMethod] 
         public void Enqueue_EmptyQueue_ShouldAddElement()
         {
             // Arrange
